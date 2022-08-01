@@ -16,3 +16,5 @@ j2,http://120.84.96.142:808/hls/86/index.m3u8
 明珠台,http://113.64.147.68:808/hls/26/index.m3u8
 明珠台,http://59.32.98.152:9901/tsfile/live/1014_1.m3u8
 翡翠台,http://59.32.98.152:9901/tsfile/live/1029_1.m3u8
+翡翠台,p2p://ns2.hellotvvod.com:9906/0f5a4554cae3409697427fcaa130bf9d
+明珠台,p2p://ns2.hellotvvod.com:9906/992d26c48c4f4ebf9f2f38901e57e220
